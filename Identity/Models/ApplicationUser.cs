@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Identity.Model
+namespace Identity.Models
 {
     public class ApplicationUser : IdentityUser
     {

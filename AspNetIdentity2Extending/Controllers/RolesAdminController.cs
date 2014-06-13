@@ -1,6 +1,6 @@
 ﻿using AspNetIdentity2Extending.Models;
 using Identity;
-using Identity.Model;
+using Identity.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using System.Collections.Generic;

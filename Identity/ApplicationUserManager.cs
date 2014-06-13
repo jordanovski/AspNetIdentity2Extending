@@ -1,4 +1,4 @@
-﻿using Identity.Model;
+﻿using Identity.Models;
 using Identity.Services;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;

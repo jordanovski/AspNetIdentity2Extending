@@ -1,5 +1,5 @@
 ﻿using Identity.DbInitializer;
-using Identity.Model;
+using Identity.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System.Data.Entity;
 
